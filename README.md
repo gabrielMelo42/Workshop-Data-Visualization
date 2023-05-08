@@ -1,6 +1,6 @@
 # Workshop-Data-Visualization
 
-workshop conducted by me
+Workshop conducted by me
 
 Hype-USP project
 
